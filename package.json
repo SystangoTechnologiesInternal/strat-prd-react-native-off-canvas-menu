@@ -1,0 +1,146 @@
+{
+  "_args": [
+    [
+      {
+        "escapedName": "react-native-off-canvas-menu",
+        "name": "react-native-off-canvas-menu",
+        "raw": "react-native-off-canvas-menu",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/stplmacmini6/Documents/Projects/BatterVsPitcher"
+    ],
+    [
+      {
+        "escapedName": null,
+        "hosted": {
+          "directUrl": "https://raw.githubusercontent.com/SystangoTechnologiesInternal/react-native-off-canvas-menu/master/package.json",
+          "gitUrl": "git://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "httpsUrl": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "shortcut": "github:SystangoTechnologiesInternal/react-native-off-canvas-menu",
+          "ssh": "git@github.com:SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "sshUrl": "git+ssh://git@github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "type": "github"
+        },
+        "name": null,
+        "raw": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+        "rawSpec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+        "scope": null,
+        "spec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+        "type": "hosted"
+      },
+      "/Users/MacBookpro15/Projects/Curren_BVP_Sameer_MC/BatterVsPitcher 3"
+    ],
+    [
+      "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+      "/Users/stplmacmini15/Documents/Projects/BVP/BatterVsPitcher"
+    ],
+    [
+      {
+        "escapedName": null,
+        "hosted": {
+          "directUrl": "https://raw.githubusercontent.com/SystangoTechnologiesInternal/react-native-off-canvas-menu/master/package.json",
+          "gitUrl": "git://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "httpsUrl": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "shortcut": "github:SystangoTechnologiesInternal/react-native-off-canvas-menu",
+          "ssh": "git@github.com:SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "sshUrl": "git+ssh://git@github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+          "type": "github"
+        },
+        "name": null,
+        "raw": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+        "rawSpec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+        "scope": null,
+        "spec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+        "type": "hosted"
+      },
+      "/Users/MacBookpro15/Projects/Curren_BVP_Sameer_MC/BatterVsPitcher 3"
+    ]
+  ],
+  "_from": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+  "_id": "react-native-off-canvas-menu@0.1.31",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-off-canvas-menu",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-off-canvas-menu-0.1.31.tgz_1471492479603_0.24332486581988633"
+  },
+  "_npmUser": {
+    "email": "provash.shoumma@gmail.com",
+    "name": "shoumma"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "escapedName": null,
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/SystangoTechnologiesInternal/react-native-off-canvas-menu/master/package.json",
+      "gitUrl": "git://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+      "httpsUrl": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+      "shortcut": "github:SystangoTechnologiesInternal/react-native-off-canvas-menu",
+      "ssh": "git@github.com:SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+      "sshUrl": "git+ssh://git@github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+      "type": "github"
+    },
+    "name": null,
+    "raw": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+    "rawSpec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+    "scope": null,
+    "spec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git#541d3e97539aa60d0ccb33543e5464ceff76fe18",
+  "_shasum": "38a92b6dcd9c938b3f8e99612b8fd0d9493a4f64",
+  "_shrinkwrap": null,
+  "_spec": "git+https://github.com/SystangoTechnologiesInternal/react-native-off-canvas-menu.git",
+  "_where": "/Users/MacBookpro15/Projects/Curren_BVP_Sameer_MC/BatterVsPitcher 3",
+  "author": {
+    "email": "provash.shoumma@gmail.com",
+    "name": "Provash Shoumma",
+    "url": "http://asprov.net"
+  },
+  "bugs": {
+    "url": "https://github.com/shoumma/react-native-off-canvas-menu/issues"
+  },
+  "dependencies": {},
+  "description": "some beautifully crafted off canvas menu components for react native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c181092e385bcb2d5445fdf809202fc846f550b7",
+    "tarball": "https://registry.npmjs.org/react-native-off-canvas-menu/-/react-native-off-canvas-menu-0.1.31.tgz"
+  },
+  "gitHead": "99814f831df94f38954733438d4797d6a8203fe3",
+  "homepage": "https://github.com/shoumma/react-native-off-canvas-menu#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "off-canvas",
+    "menu"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "provash.shoumma@gmail.com",
+      "name": "shoumma"
+    }
+  ],
+  "name": "react-native-off-canvas-menu",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoumma/react-native-off-canvas-menu.git"
+  },
+  "scripts": {},
+  "version": "0.1.31"
+}
