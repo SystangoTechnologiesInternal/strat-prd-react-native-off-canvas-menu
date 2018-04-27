@@ -157,7 +157,7 @@ class OffCanvas3D extends Component {
 
   // press on any menu item, render the respective scene
   _handlePress(index) {
-    if (index == 3) {
+    if (index == 4) {
       this.props.parentObj.showLogoutAlert();
     } else {
       this.setState({ activeMenu: index })
